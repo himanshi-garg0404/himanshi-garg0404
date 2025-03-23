@@ -14,8 +14,8 @@
 ## 🚀 Tech Stack
 
 - 💻 Languages: JavaScript, Java, Python
-- ⚙️ Backend: Node.js, Express, Spring Boot
-- 🌐 Frontend: Svelte, HTML/CSS
+- ⚙️ Backend: Node.js, Express, Flask
+- 🌐 Frontend: React, HTML/CSS
 - 🧰 Tools: Docker, Kubernetes, Git, Postman
 - 🧪 Testing: Cypress, Selenium, JUnit
 - ✏️ Design and Prototyping: Figma (UX/UI)
