@@ -3,6 +3,7 @@
 ### About me
 - I have done a double degree in Software Engineering (Honours) and Data Science from Macquarie University(Sydney).
 - Email: hima.garg.04@gmail.com
+- LinkedIn: www.linkedin.com/in/himanshi-garg-
 
 <!--
 **himanshi-garg0404/himanshi-garg0404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
