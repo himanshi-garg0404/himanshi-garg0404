@@ -1,4 +1,6 @@
-## Hi there 👋, My name is Himanshi Garg
+## Hi there 👋, My name is Himanshi Garg!
+
+### About me
 
 <!--
 **himanshi-garg0404/himanshi-garg0404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
