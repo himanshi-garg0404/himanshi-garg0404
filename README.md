@@ -1,6 +1,7 @@
 ## Hi there 👋, My name is Himanshi Garg!
 
 ### About me
+- I have done Software Engineering (Honours) and Data Science from Macquarie University(Sydney).
 
 <!--
 **himanshi-garg0404/himanshi-garg0404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
