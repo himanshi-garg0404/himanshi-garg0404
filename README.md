@@ -3,6 +3,11 @@
 
 ### About me
 - I have done a double degree in Software Engineering (Honours) and Data Science from Macquarie University(Sydney).
+
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/himanshi-garg-)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/himanshi-garg0404)
 - Email: hima.garg.04@gmail.com
 - LinkedIn: www.linkedin.com/in/himanshi-garg-
 
@@ -27,4 +32,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+## 🚀 Tech Stack
+
+## 🛠️ Featured Projects
+
+- 🔍 [AI Code Explainer](https://github.com/yourusername/ai-code-explainer)  
+  A tool that uses AI to explain code snippets in plain English.
+
+- 🎲 [Bet Aggregator API](https://github.com/yourusername/bet-aggregator)  
+  Node.js backend to store & process bet data using GraphQL APIs.
+
+- 🔐 [Secure Spring Boot API](https://github.com/yourusername/springboot-auth-api)  
+  REST API with JWT, session-based, and API key-based authentication.
+
+
 -->
