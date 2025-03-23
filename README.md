@@ -18,6 +18,7 @@
 - 🌐 Frontend: Svelte, HTML/CSS
 - 🧰 Tools: Docker, Kubernetes, Git, Postman
 - 🧪 Testing: Cypress, Selenium, JUnit
+- ✏️ Design and Prototyping: Figma (UX/UI)
 
 <!--
 **himanshi-garg0404/himanshi-garg0404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
