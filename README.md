@@ -6,6 +6,14 @@
 - Email: hima.garg.04@gmail.com
 - LinkedIn: www.linkedin.com/in/himanshi-garg-
 
+## 🚀 Tech Stack
+
+- 💻 Languages: JavaScript, Java, Python
+- ⚙️ Backend: Node.js, Express, Spring Boot
+- 🌐 Frontend: Svelte, HTML/CSS
+- 🧰 Tools: Docker, Kubernetes, Git, Postman
+- 🧪 Testing: Cypress, Selenium, JUnit
+
 <!--
 **himanshi-garg0404/himanshi-garg0404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
