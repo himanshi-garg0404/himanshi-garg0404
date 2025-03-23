@@ -1,4 +1,5 @@
-## Hi there 👋, My name is Himanshi Garg!
+## Hi there 👋, I'm Himanshi Garg!
+🎓 Graduate Software Engineer | 💻 Passionate about backend, AI, and full-stack development
 
 ### About me
 - I have done a double degree in Software Engineering (Honours) and Data Science from Macquarie University(Sydney).
